@@ -1,0 +1,13 @@
+{
+  "name": "kyogom-skills",
+  "owner": {
+    "name": "kyogom"
+  },
+  "plugins": [
+    {
+      "name": "slack-mrkdwn-fixer",
+      "source": "./plugins/slack-mrkdwn-fixer",
+      "description": "Slack の MCP 下書き・送信向けに、装飾が確実に表示されるよう Markdown を正規化するスキル。強調を太字に統一し、全角文字に密着して壊れる箇所へ境界スペースを補う。"
+    }
+  ]
+}

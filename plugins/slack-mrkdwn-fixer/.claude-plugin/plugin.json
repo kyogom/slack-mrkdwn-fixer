@@ -1,0 +1,5 @@
+{
+  "name": "slack-mrkdwn-fixer",
+  "description": "Slack の MCP 下書き・送信向けに Markdown を正規化し、装飾の崩れを防ぐスキル。",
+  "version": "1.0.0"
+}
